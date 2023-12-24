@@ -1,0 +1,43 @@
+body{
+
+
+text-align: center;
+color: white;
+
+
+
+
+font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Lobster', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+
+
+}
+
+h3{
+    color: black;
+    text-decoration: underline;
+    color: #d08316;
+}
+
+.cadre{
+    padding: 50px;
+    
+    background-color: #063D3D;
+    opacity: 0.9;
+    border-radius: 17px;
+
+    margin-left: 50px;
+    margin-right: 55px;
+}
+#input
+{
+    
+}
